@@ -1,0 +1,24 @@
+# Map file for tile-based game 
+# (Lines that start with '#' are comments)
+# The tiles are:
+#   (Space) Empty tile
+#   A..Z    Tiles A through Z
+#   o       Star
+#   !       Music Note
+#   *       Goal
+#   1       Bad Guy 1 (grub)
+#   2       Bad Guy 2 (fly)
+
+
+                                                                  
+                                                                      
+                                                                 
+                                                                                                                                                                                              o o o w o o o t o    o w o     w   2 v 2 v 2 o                              C
+                                                                   o 2vv2 o                                      otooooowooooo2vo                                                  owoooo    TPPPPPPPPPPPPPPPPPP  PPPPPPPP  PPP PPPPPPPPPPPPS                             A                                        
+                                                                   JIIIIIIK                                     oGBBBBBrBBBBBBBBHo                                        o o o  o JIIIIIIIIK                                                                             A
+                                                        p 2 vvv 2 p                       v                    oGEFFFFFFFFFFFFFFLHo                           o  w  o    JIIIIIIIIK                                                                                       A
+                                                        JIIIIIIIIIK                     2 C o                 oGEFFFFFFFFFFFFFFFFLHo                o  t   o  JIIIIIIIIK                                                                                                  A
+                                         w t oo t oooo t  oooooot   tootoooo t   t      C A C o              oGEFFFFFFFFFFFFFFFFFFLHo     o oo o   JIIIIIIIIK                                                                                                             A
+         ootovoootovo2p                  TPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPS  A A A C             oGEFFFFFFFFFFFFFFFFFFFFLHo   JIIIIIIIK                                                               q        q   q                p                          A
+ s      GBBBBBBBBBBBBBBH 1 t ooo t oo 2 1                                               A A A A  t      t   GEFFFFFFFFFFFFFFFFFFFFFFFHo                                                                          R        R   R                R   o   tt  o   u  o  tt   A
+BBBBBBBBEFFFFFFFFFFFFFFLBBBBBBBBBBBBBBBBBrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrBrBrBrBrBrBBBBBBBBBBBBEFFFFFFFFFFFFFFFFFFFFFFFFLBBBrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrBBBBBBBBBBBBBBBBBBBBBBBBBBB
